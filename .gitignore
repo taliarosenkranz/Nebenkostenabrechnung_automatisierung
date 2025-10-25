@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Debug and Test files
+debug_*.py
+test_*.py
+
+# Output files
+output/
+*.xlsx
+*.pdf
+*.txt
+
+# Config with sensitive data
+.env
+config_private.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
