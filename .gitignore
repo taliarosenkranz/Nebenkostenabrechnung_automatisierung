@@ -22,7 +22,7 @@ test_*.py
 output/
 *.xlsx
 *.pdf
-*.txt
+data/output/*.txt
 
 # Config with sensitive data
 .env
